@@ -1,1 +1,1 @@
-mayte
+ #!/bin/bas
