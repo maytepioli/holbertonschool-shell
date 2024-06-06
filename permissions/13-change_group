@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-chown hello
-=======
 chown school hello
->>>>>>> 56cd711 (mayte)
+
