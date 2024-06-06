@@ -1,2 +1,2 @@
-#!/bit/push
+#!/bin/bash
 su betty
