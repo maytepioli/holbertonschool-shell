@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --de=guillaume hello:vincent 
